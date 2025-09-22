@@ -37,7 +37,7 @@
   - **B (102장)**
   - **C (94장)**
   - **D (13장)**
-![Lane Damage](https://drive.google.com/uc?export=view&id=1kesqj-T0fz_wrxWlehSoPqKvt1Y8IfAg)
+<img width="1150" height="788" alt="Image" src="https://github.com/user-attachments/assets/ac9c560f-9835-4e49-944e-4245acf9b453" />
 
  **문제점**: 클래스 불균형이 심각 → 특히 D 클래스(훼손 심각)가 부족하여 모델 학습 어려움
 
