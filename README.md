@@ -71,12 +71,11 @@
 ---
 
 ### CNN 예측 결과
-![CNN Result](https://drive.google.com/uc?export=view&id=1TiX_B1yFDoT1uFVpJ8gtpz1ia07pnfUc)
-
+<img width="1156" height="593" alt="Image" src="https://github.com/user-attachments/assets/37e806c3-3d82-4025-9075-5cc4c476b5bd" />
 ---
 
 ### ResNet 예측 결과
-![ResNet Result](https://drive.google.com/uc?export=view&id=1tH9gAR-adVaVll-gBnBepAmlsQmHBrGM)
+<img width="1189" height="742" alt="Image" src="https://github.com/user-attachments/assets/18aa0e44-3d0c-473e-81ed-9295c829bbcd" />
 
 ---
 
