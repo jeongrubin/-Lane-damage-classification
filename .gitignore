@@ -1,0 +1,14 @@
+# Raw data and labels
+raw_labels/
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environment
+.env
+.venv/
+venv/
+.DS_Store
